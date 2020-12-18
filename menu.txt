@@ -1,0 +1,7 @@
+0. Vegetables 
+1. Fruits
+2. Fishfood
+3. Bakery
+4. Cosmetic
+5. Remove item
+6. Bill

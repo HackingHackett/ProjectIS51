@@ -1,0 +1,7 @@
+0. Toothpaste 100
+1. Toothbrush 150
+2. Facewash 220 
+3. Shampoo 455
+4. Shower gel 400
+5. Deodorant 200
+6. Perfume 1500

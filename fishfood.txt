@@ -1,0 +1,7 @@
+0. Lobstar 4000
+1. Shrimps 1500
+2. Prawns 1200
+3. Crabs 3000
+4. Fish 1100
+5. Squid 2500
+6. Scollops 1900

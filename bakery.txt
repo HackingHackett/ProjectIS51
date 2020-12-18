@@ -1,0 +1,8 @@
+0. Eggs 120
+1. Milk 150
+2. Croissants 250 
+3. Bread 200
+4. Rusk 210
+5. Brownies 150
+6. Cookies 155
+

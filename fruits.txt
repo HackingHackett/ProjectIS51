@@ -1,0 +1,6 @@
+0. Avocado 280
+1. Lychee 180
+2. Banana 150
+3. Blackberry 190
+4. Passion Fruit 400
+6. Oranges 200

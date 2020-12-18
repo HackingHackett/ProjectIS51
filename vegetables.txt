@@ -1,0 +1,7 @@
+0. Broccoli 250
+1. EggPlant 50
+2. Cabbage 100
+3. Potato 120
+4. Pees 150
+6. Onion 130
+
